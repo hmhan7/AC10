@@ -335,7 +335,7 @@ p3 {
 /* .asis_p {
 } */
 .asia {
-  background-image: url("/earth.jpg");
+  background-image: url("earth.jpg");
   background-size: cover;
   padding: 80px;
   /* background-color: rgb(7, 2, 53); */
